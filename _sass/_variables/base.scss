@@ -272,8 +272,12 @@ $sidebar-nav-hover-color              : $whitesmoke;
 $sidebar-highlight                    : $blue-bright;
 
 $site-author-image-padding            : 2px;
-$site-author-image-width              : 96px;
-$site-author-image-height             : auto;
+// $site-author-image-width              : 96px;
+// $site-author-image-height             : auto;
+
+$site-author-image-width              : auto;
+$site-author-image-height             : 150px;
+
 $site-author-image-border-width       : 2px;
 $site-author-image-border-color       : $black-dim;
 
