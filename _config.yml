@@ -14,7 +14,7 @@ date_format: '%Y-%d-%m'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: https://asfink.github.io
 baseurl:
 permalink: pretty
 

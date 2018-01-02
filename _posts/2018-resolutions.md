@@ -1,5 +1,5 @@
 ---
-title: Starting 2018 off on the right foot
+title: Starting 2018 right
 date: 2018-01-01
 categories:
 - personal
