@@ -11,7 +11,7 @@ tags:
 Where'd you go?
 
 ---
-If you follow me on any of my social media accounts, you'll know that 2018 has been less than nice to me. I was sick for the first week (and coming into it), I bought an external monitor that was shattered (not my fault, it came that way), accidentally dyed my hair purple, and a few other things.
+If you follow me on any of my social media accounts, you'll know that 2018 has been less than nice to me. I was sick for the first week, I bought an external monitor that was shattered (not my fault, it came that way), accidentally dyed my hair purple, and a few other things.
 
 <pre style="margin:0; padding-top:2em;">
 <img class="centered" src="/assets/images/posts/2018-2-shattered-screen.jpg" style="height:400px;" alt="[Image of Shattered Screen]"/><center>The external monitor that was shattered upon arrival.
@@ -21,7 +21,7 @@ January 2018</center>
 
 The worst thing that has happened so far was my laptop being stolen.
 
-My personal laptop was stolen from my room - right from my desk. I haven't used my personal laptop that much due to spending so much time on the computer at work. But I know that my personal laptop was on my desk, as I never took it anywhere or moved it out of my room. The day prior to my laptop being stolen, I was trying to stream on Twitch (following through on my goals for the year!) and had placed it on my desk. That was the last place I had seen it. 
+My personal laptop was stolen from my room - right from my desk. I wasn't using my personal laptop that much due to spending so much time on the computer at work. But I know that my personal laptop was on my desk, as I never took it anywhere or moved it out of my room. The day prior to my laptop being stolen, I was trying to stream on Twitch (following through on my goals for the year!) and had placed it on my desk. That was the last place I had seen it. 
 
 On the day it was stolen the house lock was acting up and a roommate was moving in. Between these factors, and my room being the first room in the house, it easy to imagine what happened: Someone sees an opened door to something that looks like a house, sneaks in, looks for the first room, grabs the first thing of value they see, and then bolts. Or at least, that is what I think happened. Before you come back with anything - yes, I checked everywhere. Yes, I tried Find My Laptop (it wasn’t set up, my fault). Yes, I asked my roommates. I ended up filing a police report that same day. 
 
