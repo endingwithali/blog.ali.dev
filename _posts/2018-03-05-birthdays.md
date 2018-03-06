@@ -22,11 +22,7 @@ None* of my friends in San Francisco knew it was my birthday yesterday, and I di
   based off some nondeterministic coincidence (A.K.A. your birthday)</center>
 </pre>
 <p style="margin-bottom:0;"><br/></p>
-
-
-A few of my close friends from my time before moving to San Francisco messaged me or called me the day of or the days leading up to my birthday. I received phone calls and texts from my extended family, and my immediate family sent me a card. 
-
-But beyond that, no one else knew. 
+ 
 
 Don’t get me wrong - I love celebrating people’s birthdays. Until I had a conversation with my friend Eva regarding birthdays, I couldn’t verbalize why. I usually just said birthdays are fun. But Eva put the words right into my mouth. Birthdays are a celebration of existence and appreciation the person. It's your time to let that person know that you are thankful to know them and that you’re grateful that they’re a part of your life. Everyone has preferred manners of showing appreciation - my mechanism is usually by gifts and doing something for them. Birthdays are perfect for that.
 
@@ -46,6 +42,10 @@ Nothing!
 <p style="margin-bottom:0;"><br/></p>
 
 You feel like you’re carrying a secret the whole day. A big one that if you tell just one close friend, your day can pivot into something else. I interacted with people, like normal, went about my day, like normal, and did everything like normal. It’s an interesting take, talking to people you consider close in your life, and they have no idea. 
+
+A few of my close friends from my time before moving to San Francisco messaged me or called me the day of or the days leading up to my birthday. I received phone calls and texts from my extended family, and my immediate family sent me a card. 
+
+But beyond that, no one else knew.
 
 I ended up at a store the day of my birthday. I felt odd asking if there were any birthday discounts when I had not told anyone else it was my birthday. I ended up asking in the most hushed tone to avoid people overhearing me, even though I was all the way on the other side of the bay and none of my friends were in the area. 
 
