@@ -49,7 +49,7 @@ But beyond that, no one else knew.
 
 I ended up at a store the day of my birthday. I felt odd asking if there were any birthday discounts when I had not told anyone else it was my birthday. I ended up asking in the most hushed tone to avoid people overhearing me, even though I was all the way on the other side of the bay and none of my friends were in the area. 
 
-My house was having a group dinner, where there were a large group of people gathered. I contemplated just bursting it out and telling everyone - it was very tempting! Instead, I turned to one of my roommates and informed him I had a secret, but I’m not going to tell him. He was begging to know, but I didn't tell him.  
+The night of my birthday, my house was having a group dinner and there was a large group of people gathered. I contemplated just bursting it out and telling everyone - it was very tempting! Instead, I turned to one of my roommates and informed him I had a secret, but I’m not going to tell him. He was begging to know, but I didn't tell him.  
 
 Not having any expectations of anyone doing anything for me was really nice. The night before, I impulsively went to a friend’s concert, which had a pre-game on a party bus that took us to the top of Twin Peaks. I met fascinating new people and ended up seeing some old friends there, too. I spent the day at a lake, enjoying unexplored places of the Bay area. I ended the weekend surrounded by friends, old and new.  
 
