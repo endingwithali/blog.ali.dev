@@ -43,7 +43,7 @@ Nothing!
 
 You feel like you’re carrying a secret the whole day. A big one that if you tell just one close friend, your day can pivot into something else. I interacted with people, like normal, went about my day, like normal, and did everything like normal. It’s an interesting take, talking to people you consider close in your life, and they have no idea. 
 
-A few of my close friends from my time before moving to San Francisco messaged me or called me the day of or the days leading up to my birthday. I received phone calls and texts from my extended family, and my immediate family sent me a card. 
+Leading up to my birthday, close friends from my time before moving to San Francisco reached out to me. I received phone calls and texts from my extended family, and my immediate family sent me a card. 
 
 But beyond that, no one else knew.
 
