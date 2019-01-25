@@ -3,6 +3,9 @@
 {% include _blocks/page_class.html %}
 {% include _blocks/sidebar.html %}
 {% include _blocks/script_extra.html %}
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
 {% assign html_class = 'theme-next ' | append: site.scheme %}
 {% if site.use_motion %}
