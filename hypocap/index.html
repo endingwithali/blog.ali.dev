@@ -392,6 +392,16 @@
             }
         }
         
+        body:not(.is-mobile) .is-animated {
+            opacity: 0;
+            transform: translate3d(0, 3rem, 0);
+            transition: all .5s ease
+        }
+        
+        body:not(.is-mobile) .is-animated.section-visible {
+            opacity: 1;
+            transform: none
+        }
         @media screen and (max-width:319px) {
             body,
             html {
@@ -447,9 +457,12 @@
             width: 6.5rem
         }
         
-        
+       
         
         @media screen and (max-width:640px) {
+        	.hippo .hippo-conent{
+        		max-height: 100%;
+        	}
             section.padded {
                 padding: 2.5rem 0
             }
