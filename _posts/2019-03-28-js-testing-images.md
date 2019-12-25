@@ -1,12 +1,13 @@
 ---
 title: Testing with Images in Javascript
-date: 2019-01-20
+date: 2019-03-28
 categories:
 - engineering
 tags:
 - javascript
 - images 
 - testing
+- medium crosspost
 ---
 
 How to import an image in Javascript to be used in Jest Tests
