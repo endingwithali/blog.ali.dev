@@ -11,7 +11,7 @@ tags:
 
 Still relevant though!
 
-_This article has also been posted on [Medium](https://medium.com/@endingwithali/)._
+_This article has also been posted on [Medium](https://medium.com/@endingwithali/an-old-guide-to-negotiation-b51f8139ce25)._
 
 ---
 
@@ -86,11 +86,13 @@ Remember, there's more to your future role than just money. What is the mentorsh
 
 <p style="margin-bottom:0;"><br/></p>
 <pre style="margin:0; padding-top:2em;">
-<center><iframe class="centered" width="560" height="315" src="https://www.youtube.com/embed/X0bsL8L9iIY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center>This video might not work embedded, so go to YouTube and watch it</center>
+<center><iframe class="centered" width="560" height="315" src="https://www.youtube-nocookie.com/embed/X0bsL8L9iIY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center>Earn what you deserve</center>
 </pre>
 <p style="margin-bottom:0;"><br/></p>
 
+
 Thank you [Angelo Saraceno](https://twitter.com/ndneighbor), [Prince Wilson](https://twitter.com/maxcell), [Jonathan Haas](https://twitter.com/Jon_A_Haas), and [Andrew Moran](https://twitter.com/andrewmo2014) for reviewing this article! 
+
 ---
 
 # Bonus Video
