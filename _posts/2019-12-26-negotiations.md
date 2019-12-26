@@ -75,7 +75,7 @@ Do not NOT negotiate. **Always negotiate.**
 
 **Never start off telling them an exact number and terms.** You should know the number you're aiming for, but realize that they might be able to go above that. Giving them an exact number at the start tells them exactly what they need to do to make you want to work there. Once you start negotiating and you see some leeway, give the number and terms. It might be higher/better than the one you have in your mind.
 
-**Don't sell yourself short.** Reasons for negotiations differ from person to person. If you're scared that it might affect your relationship with the company think about it this way: you miss out on the chance get compensated for what your actually worth and what your peers are actually being paid. Don't sell yourself short.
+**Don't sell yourself short.** Reasons for negotiations differ from person to person. If you're scared that it might affect your relationship with the company think about it this way: you miss out on the chance get compensated for what you're actually worth and what your peers are actually being paid. Don't sell yourself short.
 
 **Be prepared to walk away.** If you fear losing the job offer due to an attempt to negotiate, do you really want to work for a company that would do that anyway? The answer to this question is one you must discuss with yourself.
 
