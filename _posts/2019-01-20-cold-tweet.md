@@ -2,11 +2,12 @@
 title: How to talk to Chloe Condon on Twitter
 date: 2019-01-20
 categories:
-- networking
+- professional
 tags:
 - cold email
 - twitter
-- medium crosspost
+- networking
+- medium repost
 ---
 
 Or "How to Talk to Women in Tech on the Internet, in General" .... or "How to Cold Tweet/Email/DM Anyone, in General"
@@ -145,3 +146,5 @@ PS: [Chloe doesn't work in cryptocurrency](https://medium.com/newco/how-to-succe
 <img class="centered" src="/assets/images/posts/2019-1/shangela.gif" alt="[Shangela Dancing]"/><center></center>
 </pre>
 <p style="margin-bottom:0;"><br/></p>
+
+Thank you to [Chloe Condon](https://twitter.com/ChloeCondon) for reviewing this article.

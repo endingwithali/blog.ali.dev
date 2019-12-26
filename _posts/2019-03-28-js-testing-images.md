@@ -7,7 +7,7 @@ tags:
 - javascript
 - images 
 - testing
-- medium crosspost
+- medium repost
 ---
 
 How to import an image in Javascript to be used in Jest Tests
