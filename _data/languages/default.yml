@@ -4,6 +4,7 @@ title:
   tag: Tag
   schedule: Schedule
 
+
 author: Author
 
 menu:
@@ -16,6 +17,7 @@ menu:
   schedule: Schedule
   sitemap: Sitemap
   commonweal: Commonweal 404
+  homepage: Home Page
 
 sidebar:
   overview: Overview
