@@ -11,7 +11,7 @@ My birthday happened. I didn’t tell anyone* and I hid the date on Facebook.
 
 ---
 
-None* of my friends in San Francisco knew it was my birthday yesterday, and I didn’t tell them. One of the roommates asked me when my birthday was a few weeks back, but I was kind of vague about it. 
+None* of my friends in San Francisco knew it was my birthday, and I didn’t tell them. One of the roommates asked me when my birthday was a few weeks back, but I was kind of vague about it. 
 
 “I’m a Pisces,” I said.
 
