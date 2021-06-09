@@ -8,10 +8,13 @@ tags:
 
 ---
 
+UPDATE 11/9/20: This has been resolved 😉
+
 I'm on the job hunt - here's a lil bit about me to help see if I'm the right fit for you!
 
 ---
 
+# UPDATE 11/9/20: This has been resolved 😉
 
 I'm currently on the job hunt! People have asked me what kind of roles I am looking for - I thought instead it might be easier to just write up a brief :) 
 
@@ -35,7 +38,7 @@ I am actively located in the Bay Area, but able to easily relocate as needed (af
 
 # 💁‍♀️ About Me 💁‍♀️
 
-You can learn more about my professional experiences via my [LinkedIn](https://www.linkedin.com/in/alifinkelstein). Instead, I'll use this section to talk about where I'm at career wise, and what interests me. 
+You can learn more about my professional experiences via my [LinkedIn](https://www.linkedin.com/in/ali-diamond/). Instead, I'll use this section to talk about where I'm at career wise, and what interests me. 
 
 I'm a planner at heart - when I propose an idea, I've probably already mapped out the first 5 steps in my head. However, when it comes to planning what I want to do next I'm actively at a crossroad. I have found so many paths that fascinate me, but one thing about the paths stays true: the ability to directly help. 
 
