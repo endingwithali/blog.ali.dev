@@ -12,3 +12,6 @@ Thumbs.db
 *.lock
 
 .now
+.vercel
+.jekyll-cache
+.twitter-cache
