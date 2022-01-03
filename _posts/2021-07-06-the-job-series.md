@@ -1,5 +1,5 @@
 ---
-title: The Job Series - Introduction
+title: The Job Series - What Is This All About Anyways? (Introduction)
 date: 2021-07-06
 categories:
 - professional
@@ -50,7 +50,7 @@ I'll say it one more time. You do not need to reinvent the wheel. It's okay to u
 
 With that...
 
-I'm giving you my job searching secrets.
+I'm giving you my job search secrets.
 
 <center>
 	{% youtube "https://www.youtube.com/watch?v=eSqexFg74F8" %}
@@ -58,9 +58,11 @@ I'm giving you my job searching secrets.
 </center>
 
 <br/>
-Welcome to my job hunt series. Through out  these series of blog posts, I will be sharing content about the tips and tricks I use to find a job with the final goal of helping you get your own job hunt on track. These blog posts will not tell you how to absolutely nail the job interview, but instead you'll learn about everything else: finding companies, questions you should ask, how to network.
+Welcome to my job hunt series. Throughout  these series of blog posts, I will be sharing content about the tips and tricks I use to find a job with the final goal of helping you get your own job hunt on track. These blog posts will not tell you how to absolutely nail the job interview, but instead you'll learn about everything else: finding companies, questions you should ask, how to network.
 
 
 ## Bonus Video 
 
 <center>{% youtube "https://www.youtube.com/watch?v=RHwsIW44HbA" %}</center>
+
+
