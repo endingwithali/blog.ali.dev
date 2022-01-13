@@ -9,4 +9,5 @@ gem "jekyll-paginate"
 group :jekyll_plugins do
 	gem "jekyll-twitter-plugin"
 	gem "jekyll-youtube"
+	gem 'jekyll-twitch'
 end
