@@ -1,6 +1,6 @@
 ---
 title: The Job Series - How to Get The First Interview
-date: 2022-01-22
+date: 2022-02-22
 categories:
 - professional
 tags:
