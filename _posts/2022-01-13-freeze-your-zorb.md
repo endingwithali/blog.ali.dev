@@ -14,7 +14,7 @@ Learn how to transfer your Zorb without losing its color property!
 
 In the 48 hours the [Zorb NFT drop](http://zorb.dev) was active, over 53,000 zorbs were minted. [Zorbs](https://github.com/ourzora/zorb) are colored orbs created by the [Zora](https://zora.co/) team - Zorbs are a long term branding and identity project. The main unique property of Zorbs is that the color of the Zorb depends on the wallet holding it. To explain more simply, a Zorb’s color is dependent on the wallet holding it - if you transfer your Zorb to someone else, the color WILL change.
 
-Recently I had the chance to sit down with [Iain](twitter.com/isiain), engineer at Zora on a Twitch stream, where we minted an NFT. During that stream, the topic of Zorbs came up and Iain shared a secret - you can actually 'freeze' Zorbs! He literally deployed the contract to enable Zorb freezing mid-stream - and we froze a Zorb. I am now in possession of the first ever Frozen Zorb!
+Recently I had the chance to sit down with [Iain](twitter.com/isiain), engineer at Zora, on a Twitch stream where we minted an NFT. During that stream, the topic of Zorbs came up and Iain shared a secret - you can actually 'freeze' Zorbs! He literally deployed the contract to enable Zorb freezing mid-stream - and we froze a Zorb. I am now in possession of the first ever Frozen Zorb!
 
 {%youtube 'https://youtu.be/7nm9h7bIkr8'%}
 
