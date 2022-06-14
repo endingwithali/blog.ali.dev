@@ -114,6 +114,10 @@ The VCGuide wishlist is a listing of companies that are deemed to have high grow
 A unicorn is a company with a valuation over 1 billion dollar - there are hundreds of these companies now, so it is nice that there's a comprehensive list somewhere that we can look at them all! 
 
 
+## Update 1.27.22
+
+Found this great list of companies that hire without whiteboarding! [Check it out here](https://github.com/poteto/hiring-without-whiteboards) [Here's a list of companies](https://4dayweek.io/) who are hiring that do 4 day work weeks! 
+
 # Bonus Video
 
 {% youtube 'https://www.youtube.com/watch?v=wbfu39l0kxg' %}
