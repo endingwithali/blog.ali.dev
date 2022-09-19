@@ -1,23 +1,14 @@
 ---
 title: The Job Series - How I Keep Track of Everything
 date: 2022-06-14
-categories:
-- professional
+summary: "Job hunting has a lot of moving pieces, how do you keep track of it all?"
 tags:
+- professional
 - jobs
 - the job series
 ---
 
-Job hunting has a lot of moving pieces, how do you keep track of it all?
-
----
-
-
-
-
-
-
-*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/2021/07/06/the-job-series/)*
+*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/posts/the-job-series-what-is-this-all-about-anyways-introduction/)*
 
 
 
@@ -57,9 +48,8 @@ Try it out - click the link above and duplicate my notion board so you can learn
 
 
 # Bonus Video
+{{<youtube wZR6QFE2m6o>}}
 
-
-{% youtube 'https://www.youtube.com/watch?v=wZR6QFE2m6o'%}
 
 
 

@@ -13,7 +13,7 @@ If you have found the job you want, how can you secure the first interview?
 ---
 
 
-*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/2021/07/06/the-job-series/)*
+*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/posts/the-job-series-what-is-this-all-about-anyways-introduction/)*
 
 How many times have you applied for a job online, and, within the day, been rejected from that same job? Yeah - it happens to all of us. At this point, it feels as though online applications are not worth the time.
 
@@ -45,6 +45,4 @@ In addition, [this article by Michelle Lu](https://medium.com/swlh/cold-calling-
 If you're doing a cold email / first call, I'd recommend checking out Paige Doherty's [article about how to have quality intro calls](https://paigefinndoherty.com/2020/08/21/on-quality-conversations-how-to-have-intro-calls-that-dont-suck/). 
 
 # Bonus Video
-
-
-{% youtube 'https://www.youtube.com/watch?v=NbJbCILXrX0'%}
+{{<youtube NbJbCILXrX0>}}

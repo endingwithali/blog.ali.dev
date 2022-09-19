@@ -1,24 +1,12 @@
 ---
-title: An Old Guide To Negotiation
+title: "An Old Guide To Negotiation"
 date: 2019-12-26
-categories:
-- professional
-tags:
-- negotiation
-- job hunt
-- medium crosspost
+draft: false
+summary: "Still relevant though!"
+tags: [negotiation, job]
 ---
 
-Still relevant though!
-
-_This article has also been posted on [Medium](https://medium.com/@endingwithali/an-old-guide-to-negotiation-b51f8139ce25)._
-
----
-
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2019-12/negotiation.png" alt="[the 1980s office aesthetic]"/><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+![the 1980s office aesthetic](/2019-12/negotiation.png)
 
 In 2016, I was invited to talk on a panel about negotiation for a Women in Technology club and compiled a document of research to questions they were asking. Recently, I was talking to a friend about negotiation for her full-time offer and looked back at the notes/research I did for the panel. I found this information to still be quite useful and up to date, so I've condensed my notes into this comprehensive article to share it with you. 
 
@@ -34,11 +22,8 @@ Say you don't have a BATNA - be sure to do your research before hand. Knowle
 
 If you have another offer, use that offer as leverage. But remember - it's not always necessary. If you do have multiple offers, it's advised to not start a bidding war. Instead, try to leverage your alternative offers only once in the discussion period. Anything beyond that sends negative vibes.
 
-<p style="margin-bottom:0;"><br/></p>
-<pre style="margin:0; padding-top:2em;">
-<center><iframe class="centered" width="560" height="315" src="https://www.youtube-nocookie.com/embed/x-dSTeOSCQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center>Do not fail the vibe check</center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+{{< youtube x-dSTeOSCQM >}}
+<center>Do not fail the vibe check</center>
 
 ## Special Alert: California
 States have laws to protect potential employees. California passed a law - AB168 - which states that employers are barred from asking about a candidate's salary history. Under AB168, it is a misdemeanor for interviewers/potential employers to ask prospective candidates anything about current or past compensation, whether in writing (including email) or orally. The only question they can ask is what are the candidate's pay expectations for the role. Upon request, the employer must (read: legally obligated to) provide the candidate a pay range for the prospective role. If you're not seeking employment in California, research what rights you have to protect yourself during the interview process for the relevant state.
@@ -84,11 +69,9 @@ In the end of the day, know your worth. Be prepared with facts and evidence to b
 
 Remember, there's more to your future role than just money. What is the mentorship like? Where will you learn the most? Do you know generally what you'll be doing? What is the work culture like? What size is the company?What is the employer doing to retain employees? What does the company do to promote employee education? Can you attend conferences? Is there a professional growth budget? If you have more than one offer, which is more technically challenging?  Be sure to have comprehensive answers to these questions when evaluating job offers to make sure that you find the best job for you.
 
-<p style="margin-bottom:0;"><br/></p>
-<pre style="margin:0; padding-top:2em;">
-<center><iframe class="centered" width="560" height="315" src="https://www.youtube-nocookie.com/embed/X0bsL8L9iIY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center>Earn what you deserve</center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+{{< youtube X0bsL8L9iIY >}}
+<center>Earn what you deserve</center>
+
 
 
 Thank you [Angelo Saraceno](https://twitter.com/ndneighbor), [Prince Wilson](https://twitter.com/maxcell), [Jonathan Haas](https://twitter.com/Jon_A_Haas), and [Andrew Moran](https://twitter.com/andrewmo2014) for reviewing this article! 
@@ -96,9 +79,7 @@ Thank you [Angelo Saraceno](https://twitter.com/ndneighbor), [Prince Wilson](htt
 ---
 
 # Bonus Video
-<p style="margin-bottom:0;"><br/></p>
-<pre style="margin:0; padding-top:2em;">
-<center><iframe class="centered" width="560" height="315" src="https://www.youtube-nocookie.com/embed/eSqexFg74F8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center>What really happens during a software engineering interview</center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+
+{{< youtube eSqexFg74F8 >}}
+<center>What really happens during a software engineering interview</center>
 

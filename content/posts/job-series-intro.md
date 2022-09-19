@@ -1,15 +1,12 @@
 ---
 title: The Job Series - What Is This All About Anyways? (Introduction)
 date: 2021-07-06
-categories:
-- professional
+draft: false
+summary: "I can't tell you how to nail a job interview, but I can tell you everything I know about the rest of the job hunt."
 tags:
+- professional
 - jobs
 - the job series
----
-
-I can't tell you how to nail a job interview, but I can tell you everything I know about the rest of the job hunt.
-
 ---
 
 One day passes, and another one is here to spend looking for a job.
@@ -25,7 +22,7 @@ I'm here to give some light and resources you can utilize to make your job hunt 
 A little bit of insight about me - 
 I'll be the first one to say it: I've struggled to find jobs, I've struggled to get offers, I've absolutely flopped at interviews. 
 <center>
-	{% twitter https://twitter.com/thenoelmiller/status/912754771882254336 %}
+{{<tweet user="thenoelmiller" id="912754771882254336">}}
 </center>
 <br/>
 
@@ -52,10 +49,9 @@ With that...
 
 I'm giving you my job search secrets.
 
-<center>
-	{% youtube "https://www.youtube.com/watch?v=eSqexFg74F8" %}
+{{<youtube eSqexFg74F8>}}
 <i>It may or may not involve being an omnipotent future robot</i>
-</center>
+
 
 <br/>
 Welcome to my job hunt series. Throughout  these series of blog posts, I will be sharing content about the tips and tricks I use to find a job with the final goal of helping you get your own job hunt on track. These blog posts will not tell you how to absolutely nail the job interview, but instead you'll learn about everything else: finding companies, questions you should ask, how to network.
@@ -63,6 +59,5 @@ Welcome to my job hunt series. Throughout  these series of blog posts, I will be
 
 ## Bonus Video 
 
-<center>{% youtube "https://www.youtube.com/watch?v=RHwsIW44HbA" %}</center>
-
+{{<youtube RHwsIW44HbA>}}
 

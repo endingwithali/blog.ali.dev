@@ -1,9 +1,9 @@
 ---
 title: Kubernetes for Developers Who Know How to Develop
 date: 2022-01-13
-categories:
-- engineering
+draft: false
 tags:
+- engineering
 - backend
 - kubernetes
 - repost
@@ -76,9 +76,6 @@ For example, you've just shared your side project on ProductHunt and HackerNews.
 With the influx of users trying out your side project, you need to scale - fast.
 
 Prior to implementing Kubernetes, you would need to go to your hosting site (either via a website for the cloud or on premises for non-cloud servers), manually provision the servers, run the containers, and set up the reverse proxies to handle incoming router traffic. With Kubernetes, this process is mostly automated. Since you were conveniently creating this side project to try to learn Kubernetes, you were prepared. To scale with the huge influx of demand, you're able to quickly update your Kubernetes config file to begin rolling out scaling changes for your side project.
-
-## By the way, New Relic 💙's Kubernetes
-If you've just set up your first Kubernetes cluster or are looking to understand the Kubernetes cluster you've been running, look no further. I'm a visual learner, and having a tool like New Relic is critical for helping create awesome visualizations for your clusters.
 
 
 ## We've done it

@@ -1,15 +1,13 @@
 ---
 title: Jamstack Is Dangerous for Beginners
-date: 2022-09-12
-categories:
-- engineering
+date: 2022-10-12
+draft: true
+summary: "We need to be smarter about the way we talk about Jamstack in the context of junior engineers
+"
 tags:
+- engineering
 - jamstack
 - cybersecurity
----
-
-We need to be smarter about the way we talk about Jamstack in the context of junior engineers
-
 ---
 
 *This is the blog post version of my Jamstack Security 101 Talk - [Click Here](https://www.twitch.tv/videos/1225257842?filter=all&sort=time) For the recording version *
@@ -53,7 +51,7 @@ Both scenarios are not very fun to deal with.
 
 ### Headers
 
-[I've written about headers in the past](https://blog.ali.dev/engineering/2020/09/29/content-type/).  It's quite easy, when learning about web applications and coding, to sweep headers under the rug and forget to check and use them. Headers are actually quite powerful, and can help create more layers of protection for your API calls. 
+[I've written about headers in the past](https://blog.ali.dev/posts/dont-forget-your-contenttype/).  It's quite easy, when learning about web applications and coding, to sweep headers under the rug and forget to check and use them. Headers are actually quite powerful, and can help create more layers of protection for your API calls. 
 
 Remember that time you were making an API for your webapp, and it kept throwing a CORS error - WHAT DOES THAT EVEN MEAN??? I'm here to help. There's a lot to unpack about CORS, but the gist of it is that CORS makes it such that only one origin can access resources. To learn more about CORS and the same origin policy, check out these two articles, [one](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy) and [two](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS), from Mozilla.
 

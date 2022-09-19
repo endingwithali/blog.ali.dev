@@ -6,13 +6,10 @@ categories:
 tags:
 - jobs
 - the job series
+summary: "How do you write a job search tweet?"
 ---
 
-How do you write a job search tweet?
-
----
-
-*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/2021/07/06/the-job-series/)*
+*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/posts/the-job-series-what-is-this-all-about-anyways-introduction/)*
 
 # What should I have to start?
 
@@ -44,17 +41,15 @@ When I announced I was on the job hunt, along with sharing this blog post, inter
 It's time to deploy twitter - the job search post. People wont know youre looking for a job unless you tell them. 
 
 Here's two examples of job hunt Tweets I wrote:
-
 <center>
-	{% twitter https://twitter.com/endingwithali/status/1207039842883907589 %}
+{{<tweet user="endingwithali" id="1207039842883907589">}}
 </center>
 <br/>
 
-
 <center>
-	{% twitter https://twitter.com/endingwithali/status/1304100307618545664 %}
+{{<tweet user="endingwithali" id="1304100307618545664">}}
 </center>
-<br/>
+
 
 Generally, the job hunt tweet should include letting people know youre looking for a job, what skills you have, what kind of roles youre looking for, and a link to more about you - whether that's your personal site, your linkedin, or a blog post talking mroe about your job hunt. It also doesn't hurt to ask for a retweet so people are more compelled to share! 
 
@@ -68,5 +63,4 @@ The Twitter search feature is your friend. If there's a specific role title you'
 
 Together we're going to get you through this job search! You've got this! 
 
-{% youtube "https://www.youtube.com/watch?v=s2HeXuxkRWk" %}
-
+{{<youtube s2HeXuxkRWk>}}

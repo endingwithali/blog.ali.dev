@@ -1,21 +1,12 @@
 ---
-title: How do web servers work?
+title: "How do web servers work?"
 date: 2021-06-02
-categories:
-- engineering
-tags:
-- backend
-- servers
-- repost
+draft: false
+summary: "I'm answering the question."
+tags: [engineering,backend,servers]
 ---
-
-I'm answering the question.
-
-
 _This article was originally posted on [Dev.To](https://dev.to/endingwithali/how-do-web-servers-work-54ci)._
 
-
----
 
 
 Web Servers 
@@ -36,7 +27,7 @@ HTTP stands for "Hypertext Transfer Protocol"  - it was created as a part of the
 
 This project has become the basis of how the internet works - it outlines the expectations of how to communicate data and information between servers. Your computer knows how to interpret websites because of the work of the World Wide Web project
 
-![Ali with Tim Berners-Lee](/assets/images/posts/2021-6/alimeetshistory.jpeg)
+![Ali with Tim Berners-Lee](/2021-6/alimeetshistory.jpeg)
 A Picture of Ali meeting Tim Berners-Lee - [Original Post here](https://www.instagram.com/p/BSexBYvD5nv/)
 
 # What did we make?
@@ -282,7 +273,7 @@ func handleConnection(connection net.Conn) {
 
 ```
 
-{% youtube lHhheCf0G1I %}
+{{<youtube lHhheCf0G1I>}}
 
 [Final code on Github.](https://github.com/endingwithali/mickeymousewebhouse/blob/main/hardcoded/main.go)
 

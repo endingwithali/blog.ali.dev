@@ -1,14 +1,14 @@
 ---
 title: How to do Subdomain URL Redirects with Vercel Hosting
 date: 2022-01-25
-categories:
-- engineering
+draft: false
+summary: Create cool branding and quick redirects using Vercel!  
 tags:
+- engineering
 - serverless
 - hosting
 ---
 
-Create cool branding and quick redirects using Vercel!  
 
 ---
 I remember the first time my friend Ash showed me [Vercel](https://vercel.com/) (at the time it named Now / Zeit). I was blown away. Since then, I’ve been using it to host my personal blog and personal website - both [ali.dev](http://ali.dev) domains. 
@@ -37,15 +37,15 @@ In this project, I will show you how I created a redirect for the subdomain, [li
 To write this blog post, I refered to [this Github issue](https://github.com/vercel/vercel/discussions/5622) that was opened on Vercel's repo by [SeinopSys](https://github.com/SeinopSys). 
 
 1. Create a basic GitHub repo for the domain 
-    ![It's the basic page for creating a new repo on github](/assets/images/posts/2022-01-25/vercelrd-1.png)
+    ![It's the basic page for creating a new repo on github](/2022-01-25/vercelrd-1.png)
     
-    ![it's the basic github page after a new repo has been created](/assets/images/posts/2022-01-25/vercelrd-2.png)
+    ![it's the basic github page after a new repo has been created](/2022-01-25/vercelrd-2.png)
     
 2. Initialize the project locally - it won’t need much in it. 
 
 3. Create a document in the local folder called `vercel.json` - this is the only file you will need for redirects. 
     
-    ![terminal command line touch vercel.json](/assets/images/posts/2022-01-25/vercelrd-3.png)
+    ![terminal command line touch vercel.json](/2022-01-25/vercelrd-3.png)
     
 4. In `vercel.json`, add the following code: 
     
@@ -67,25 +67,25 @@ To write this blog post, I refered to [this Github issue](https://github.com/ver
 
 7. Run `vercel --prod` to push your website live.
     
-    ![terminal showing project being deployed to vercel and to prod](/assets/images/posts/2022-01-25/vercelrd-5.png)
+    ![terminal showing project being deployed to vercel and to prod](/2022-01-25/vercelrd-5.png)
     
 
     At this point, your redirect will be live, but not have the proper domain. In the next steps, we will set up the domain. 
 
 8. Go to your Vercel Dashboard ui (online, click into the project)
-    ![dashboard of the live ali dev project](/assets/images/posts/2022-01-25/vercelrd-6a.png)
+    ![dashboard of the live ali dev project](/2022-01-25/vercelrd-6a.png)
 
 9. Connect your Github repo to your project by clicking:  
-    ![dashboard of vercel project showing the git integrations](/assets/images/posts/2022-01-25/vercelrd-6.png)
+    ![dashboard of vercel project showing the git integrations](/2022-01-25/vercelrd-6.png)
 
     We are connecting the project to the Github repo, because Vercel has it such that every time a commit is made to your repo, it’ll update the website. This makes it easier to update the URL as needed. 
 
 10. Next, click into `settings` > `domains`
 
-    ![dashboard showing the vercel project domains that are available](/assets/images/posts/2022-01-25/vercelrd-7.png)
+    ![dashboard showing the vercel project domains that are available](/2022-01-25/vercelrd-7.png)
 
 11. Add the domain you want to redirect - for the subdomain, you can just type in the subdomain. The main domain should be maintained / controlled by the Vercel name servers. [Click here to learn how to set that up.](https://vercel.com/guides/transferring-domains-to-vercel)
-    ![dashboard showing the successful successful setting of the domain for the vercel project](/assets/images/posts/2022-01-25/vercelrd-8.png)
+    ![dashboard showing the successful successful setting of the domain for the vercel project](/2022-01-25/vercelrd-8.png)
     
 12. Congrats you now have a domain redirect!
 
@@ -97,5 +97,4 @@ Go forth and redirect all the pages!
 
 # Bonus Video
 
-
-{% youtube 'https://www.youtube.com/watch?v=RH1ekuvSYzE' %}
+{{<youtube RH1ekuvSYzE>}}

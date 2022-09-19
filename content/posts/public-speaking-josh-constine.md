@@ -1,20 +1,17 @@
 ---
 title: Public Speaking Class with Josh Constine
 date: 2022-01-20
-categories:
-- professional
+summary: "Notes on how to publicly speak, professionally 
+"
+draft: aflse
 tags:
+- professional
 - public speaking
 ---
 
-Notes on how to publicly speak, professionally 
-
----
-
-
 I recently had the chance to sit down in a small setting with [Josh Constine](https://twitter.com/JoshConstine), to learn about how to be a better public speaker and better moderator. I wrote notes voraciously, and wanted to share them with you:
 
-![a group of gas station members listening to josh talk](/assets/images/posts/2022-01-20/groupphoto.jpg)
+![a group of gas station members listening to josh talk](/2022-01-20/groupphoto.jpg)
 
 - you sound slower than you think when you’re speaking, but still **try to speak a bit slower**
     - the slower you speak, the less filler words you use
@@ -132,5 +129,4 @@ It was a really engaging discussion, and I'm excited to share these notes with y
 # Bonus Video
 
 Me cheering for you when you get your first public speaking gig. I'm proud of you! 
-
-{% youtube 'https://www.youtube.com/watch?v=vx0lCdRRL-Q'%}
+{{<youtube vx0lCdRRL-Q>}}

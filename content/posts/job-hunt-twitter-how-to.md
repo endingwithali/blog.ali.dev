@@ -1,6 +1,8 @@
 ---
 title: The Job Series - How to Start a Twitter Account
 date: 2021-07-28
+draft: false
+summary: "How to get started on Twitter "
 categories:
 - professional
 tags:
@@ -8,11 +10,7 @@ tags:
 - the job series
 ---
 
-How to get started on Twitter 
-
----
-
-*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/2021/07/06/the-job-series/)*
+*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/posts/the-job-series-what-is-this-all-about-anyways-introduction/)*
 
 Ok, Twitter account started - what do I do now? 
 
@@ -47,6 +45,4 @@ Think of a product you deeply respect - and find the accounts of the people who 
 **BTW - [follow me on Twitter](http://twitter.com/endingwithali)**
 
 ## Bonus Video
-{% youtube "https://www.youtube.com/watch?v=pSNJ8KzaDQk" %}
-
-
+{{<youtube pSNJ8KzaDQk>}}

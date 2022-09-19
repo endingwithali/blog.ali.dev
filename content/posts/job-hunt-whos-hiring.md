@@ -1,18 +1,15 @@
 ---
 title: The Job Series - How To Find Companies Who are Hiring 
 date: 2021-08-25
-categories:
-- professional
+draft: false
+summary: "You've looked everywhere, but still no luck. Where should you look next to find job listings?"
 tags:
+- professional
 - jobs
 - the job series
 ---
 
-You've looked everywhere, but still no luck. Where should you look next to find job listings?
-
----
-
-*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/2021/07/06/the-job-series/)*
+*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/posts/the-job-series-what-is-this-all-about-anyways-introduction/)*
 
 
 # Finding companies
@@ -120,6 +117,5 @@ Found this great list of companies that hire without whiteboarding! [Check it ou
 
 # Bonus Video
 
-{% youtube 'https://www.youtube.com/watch?v=wbfu39l0kxg' %}
-
+{{<youtube wbfu39l0kxg>}}
 

@@ -1,18 +1,15 @@
 ---
 title: The Job Series - Venture Capital and How It Can Help You Find A Job 
 date: 2021-09-02
-categories:
-- professional
+draft: false
+summary: "Some companies don't need external money to get started. Many need Venture Capital to get started - and VC's like investing in things that they know. "
 tags:
+- professional
 - jobs
 - the job series
 ---
 
-Some companies don't need external money to get started. Many need Venture Capital to get started - and VC's like investing in things that they know. 
-
----
-
-*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/2021/07/06/the-job-series/)*
+*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/posts/the-job-series-what-is-this-all-about-anyways-introduction/)*
 
 
 Let's take a step back here
@@ -55,4 +52,6 @@ In this article, I've given you great ways to find companies, as well as tips fo
 This is useful to understand the dynamics of the company and it's potential growth. 
 
 # Bonus Video 
-{% youtube 'https://www.youtube.com/watch?v=JhLDH8FGmhs' %}
+
+{{<youtube JhLDH8FGmhs>}}
+

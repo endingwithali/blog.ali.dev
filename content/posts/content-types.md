@@ -1,16 +1,9 @@
 ---
-title: Don't Forget Your Content–Type
+title: "Don't Forget Your Content–Type"
 date: 2020-09-29
-categories:
-- engineering
-tags:
-- API
-- HTTP requests
-- best practices
----
-
-A very brief exploration of Content-Type
-
+draft: false
+summary: "A very brief exploration of Content-Type"
+tags: [engineering]
 ---
 
 I recently used the [EmailRep.io](http://emailrep.io) API on for a rapid prototype I was building. In heart of quick prototyping, I bypassed setting a Content-Type on my Fetch call:
@@ -98,10 +91,7 @@ Breaking this down, we learn that:
 
 Why should you explicitly set the Content-Type if it's only recommended? The clear definition of what kind of content you expect from the call helps you avoid the problems I had, as explained in the introduction of this post. 
 
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2020-9/1-sniff.jpg" alt="[Dog dressed as business person, sitting at desk]"/><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+![Dog dressed as business person, sitting at desk](/2020-9/1-sniff.jpg)
 
 But, by not setting your Content-Type, you also open yourself up to a cross-site scripting attack.
 
@@ -123,8 +113,4 @@ API and HTTP calls should not be a guessing game - take the guess work out of yo
 
 Content aware scale is fun.
 
-<p style="margin-bottom:0;"><br/></p>
-<pre style="margin:0; padding-top:2em;">
-<center><iframe class="centered" width="560" height="315" src="https://www.youtube-nocookie.com/embed/7merzCPl-Xg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+{{<youtube 7merzCPl-Xg>}}

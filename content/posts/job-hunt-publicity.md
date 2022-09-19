@@ -1,18 +1,15 @@
 ---
 title: The Job Series - Publicity and Why It's Important to the Job Search
 date: 2021-07-14
-categories:
-- professional
+draft: false
+summary: "How will they know you're on the market if you don't tell them?"
 tags:
+- professional
 - jobs
 - the job series
 ---
 
-How will they know you're on the market if you don't tell them?
-
----
-
-*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/2021/07/06/the-job-series/)*
+*This is a blog post in a series of articles about getting a job in tech. Confused? [Here's the first post](http://blog.ali.dev/professional/posts/the-job-series-what-is-this-all-about-anyways-introduction/)*
 
 # Put Yourself Out There
 
@@ -46,7 +43,8 @@ People put out asks on Twitter - whether it's getting help on a technical issue,
 Twitter definitely helps streamline the job process - you'll find hiring managers sharing on their profile that they're looking. As a bonus, they are really excited to answer questions and talk to potential hires in replies and dms. Sometimes, people will share job opportunities that don't even make it to the company's hiring page. This is definitely the place to find the really interesting jobs in tech. 
 
 
-{% youtube "https://www.youtube.com/watch?v=BXRHnvlYIt8" %}
+{{<youtube BXRHnvlYIt8>}}
+
 <br />
 
 To be honest, without Twitter, I wouldn't have the job I have today. It's become an essential part of my role as a developer relations engineer, and I constantly use it to find interesting events, articles, thoughts, and even jobs that I then share with friends. 
@@ -57,7 +55,7 @@ As a bonus, you'll also be able to hear first hand what is happening in the tech
 
 Check out [this presentation]([https://speakerdeck.com/nikhilkrishnan/why-twitter-is-dope-and-how-to-use-it](https://speakerdeck.com/nikhilkrishnan/why-twitter-is-dope-and-how-to-use-it)) by [@nikillinit](https://twitter.com/nikillinit) where he talks about the benefits of twitter and how he uses it, and this workshop with David Perell and Matthew Kobach where they explain "how to crush it on twitter." 
 
-{% youtube "https://www.youtube.com/watch?v=P5d6zm3YbqM" %}
+{{<youtube P5d6zm3YbqM>}}
 <br/>
 
 Hopefully, I've now gotten you on board with twitter. You're probably asking —— what do I do first?
@@ -71,6 +69,7 @@ As Marc Andresson said - [it's time to build](https://a16z.com/2020/04/18/its-ti
 
 # Bonus Video
 
-{% youtube "https://www.youtube.com/watch?v=aylby5JxpZk" %}
+{{<youtube aylby5JxpZk>}}
+
 
 

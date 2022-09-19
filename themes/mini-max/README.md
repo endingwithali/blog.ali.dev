@@ -6,3 +6,4 @@ This is an improved version of the Hugo [Mini Theme](https://github.com/nodejh/h
 For installation steps, click the link above, and follow. 
 
 This theme also include custom shortcodes for twitch highlights, adjusted layouts etc. 
+

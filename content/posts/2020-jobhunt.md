@@ -1,17 +1,11 @@
 ---
-title: Looking for work
+title: "Looking for work"
 date: 2020-09-10
-categories:
-- professional
-tags:
-- jobs
+draft: false
+summary: "**UPDATE 11/9/20: This has been resolved 😉**
 
----
-
-UPDATE 11/9/20: This has been resolved 😉
-
-I'm on the job hunt - here's a lil bit about me to help see if I'm the right fit for you!
-
+I'm on the job hunt - here's a lil bit about me to help see if I'm the right fit for you!"
+tags: [professional, jobs, devrel]
 ---
 
 # UPDATE 11/9/20: This has been resolved 😉
@@ -20,10 +14,8 @@ I'm currently on the job hunt! People have asked me what kind of roles I am look
 
 I wrote this to help you decide if I'm the right fit for you! 
 
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2020-9/1-hire-dog.jpg" alt="[Dog dressed as business person, sitting at desk]"/><center>This could be me and you!</center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+![Dog dressed as business person, sitting at desk](/2020-9/1-hire-dog.jpg)
+*This could be me and you!*
 
 
 This post was inspired by [Angela Riggs](https://angelariggs.github.io/articles/looking-for-work), who was inspired by [Julie Pagano](https://juliepagano.com/blog/2015/04/23/for-a-limited-time-only-loo king-for-work/). Thanks for making a cool thing!
@@ -42,11 +34,8 @@ You can learn more about my professional experiences via my [LinkedIn](https://w
 
 I'm a planner at heart - when I propose an idea, I've probably already mapped out the first 5 steps in my head. However, when it comes to planning what I want to do next I'm actively at a crossroad. I have found so many paths that fascinate me, but one thing about the paths stays true: the ability to directly help. 
 
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2020-9/2-hire-puppy.jpg" alt="[Puppy holding leash in mouth, ready to go]"/><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
 
+![Puppy holding leash in mouth, ready to go](/2020-9/2-hire-puppy.jpg)
 
 I love to support and be the person thinking about how I can help you achieve your goals. I love to have a genuine connection and utilize it to move the team forward, together. I enjoy jobs where I can use my ability to connect with people, as well as my technical background.
 
@@ -109,17 +98,14 @@ These are not deal breakers, but I will take them into account.
 - policies that limit what employees can do with their free time / social media
 
 
-# ⁉️ Interested ⁉️
+# ‽ Interested ‽
 
 Obviously, there's more to me than what I wrote in this blog post. There's more that I'm interested in than what I wrote about in this blog post. I'm open to lot of different roles, fields, and spaces. Deal breakers aren't deal makers, and I'm taking each role as it comes. 
 
 Thank you for taking the time to read this - I greatly appreciate it. Feel free to share this with those you know are on the hiring hunt! 
 
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2020-9/3-the-gang.jpg" alt="[Group of 8+ of King Charles Cavalier Spaniels]"/><center>This will be us once I'm on your team!</center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
 
+![Group of 8+ of King Charles Cavalier Spaniels](/2020-9/3-the-gang.jpg)
 
 If you're interested in contacting me - email me at _**hire@ali.dev**_
 
@@ -129,12 +115,8 @@ If you're interested in contacting me - email me at _**hire@ali.dev**_
 
 I recently bought a tiny mic and I love it.
 
+{{<youtube EHnMrcmYB0I>}}
 
-<p style="margin-bottom:0;"><br/></p>
-<pre style="margin:0; padding-top:2em;">
-<center><iframe class="centered" width="560" height="315" src="https://www.youtube-nocookie.com/embed/EHnMrcmYB0I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
 
 
 

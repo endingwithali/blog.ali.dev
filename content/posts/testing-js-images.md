@@ -1,21 +1,15 @@
 ---
-title: Testing with Images in Javascript
+title: "Testing with Images in Javascript"
 date: 2019-03-28
-categories:
-- engineering
-tags:
-- javascript
-- images 
-- testing
-- medium repost
+draft: false
+summary: "How to import an image in Javascript to be used in Jest Tests
+ 
+"
+tags: [engineering, javascript, testing]
 ---
-
-How to import an image in Javascript to be used in Jest Tests
-
 
 _This article was originally posted on [Medium](https://medium.com/@endingwithali/testing-with-images-in-javascript-52fcbe06961f)._
 
----
 
 <p style="margin-bottom:0;"><br/></p>
 <pre style="margin:0; padding-top:2em;">

@@ -1,22 +1,21 @@
 ---
 title: How to "Freeze" Your Zorb NFT 
 date: 2022-01-13
-categories:
-- engineering
+summary: "Learn how to transfer your Zorb without losing its color property! "
+draft: false
 tags:
 - NFT
 - web3
+- engineering
 ---
 
-Learn how to transfer your Zorb without losing its color property! 
-
----
 
 In the 48 hours the [Zorb NFT drop](http://zorb.dev) was active, over 53,000 zorbs were minted. [Zorbs](https://github.com/ourzora/zorb) are colored orbs created by the [Zora](https://zora.co/) team - Zorbs are a long term branding and identity project. The main unique property of Zorbs is that the color of the Zorb depends on the wallet holding it. To explain more simply, a Zorb’s color is dependent on the wallet holding it - if you transfer your Zorb to someone else, the color WILL change.
 
 Recently I had the chance to sit down with [Iain](twitter.com/isiain), engineer at Zora, on a Twitch stream where we minted an NFT. During that stream, the topic of Zorbs came up and Iain shared a secret - you can actually 'freeze' Zorbs! He literally deployed the contract to enable Zorb freezing mid-stream - and we froze a Zorb. I am now in possession of the first ever Frozen Zorb!
 
-{%youtube 'https://youtu.be/7nm9h7bIkr8'%}
+{{<youtube 7nm9h7bIkr8>}}
+
 
 
 
@@ -35,10 +34,10 @@ In this section, you will be explained how to get to the location to execute the
 You can also bypass this section and *[click here to get dropped directly onto the page you need to go to.](https://etherscan.io/address/0xca21d4228cdcc68d4e23807e5e370c07577dd152#writeContract)* 
 
 1. Navigate to the Zorb contract website on [ethscan.io](http://ethscan.io) - the address of the Zorb contract is `0xCa21d4228cDCc68D4e23807E5e370C07577Dd152`. 
-	![Image of Etherscan.io on the relevant contract page](/assets/images/posts/2022-01-10/NFT-1.png)
+	![Image of Etherscan.io on the relevant contract page](/2022-01-10/NFT-1.png)
 
 2. Click `Contract`  
-	![Image showing etherscan website when you click on Contract](/assets/images/posts/2022-01-10/NFT-2.png)
+	![Image showing etherscan website when you click on Contract](/posts/2022-01-10/NFT-2.png)
 
 3. Select `Write Contract` from the submenu.
 
@@ -46,11 +45,11 @@ You can also bypass this section and *[click here to get dropped directly onto t
 ## Execute the Trade
 
 1. Connect your wallet of choice that is holding the Zorb by clicking `Connect to Web3`
-	![Image showing base etherscan open to contract page](/assets/images/posts/2022-01-10/NFT-3.png)
-	![Image showing option to collect to metamask or wallet connect ](/assets/images/posts/2022-01-10/NFT-4.png)
+	![Image showing base etherscan open to contract page](/2022-01-10/NFT-3.png)
+	![Image showing option to collect to metamask or wallet connect ](/2022-01-10/NFT-4.png)
 
 2. Select `5. safeTransferFrom` 
-    ![Etherscan safe transfer form, but empty](/assets/images/posts/2022-01-10/NFT-5.png)
+    ![Etherscan safe transfer form, but empty](/2022-01-10/NFT-5.png)
 
 3. For your `from(address)` put the address of your wallet (the one you’re connected to)
 
@@ -59,9 +58,9 @@ You can also bypass this section and *[click here to get dropped directly onto t
 5. Finally, select the ID of the Zorb you want to freeze.
     1. To find the ID of the Zorb, go to the etherscan of your wallet, select `Erc721 Token Txns`, and it’ll show all of your Erc721 tokens. From there, you can see all the Transfer Events that use `Zorbs(ZORB)` tokens, and the associated `Token ID`. That Token ID is what you will input into the final contact field. 
         
-        ![Image showing the list of all the Zorbs Ali has minted on Etherscan, and the transaction details](/assets/images/posts/2022-01-10/NFT-6.png)
+        ![Image showing the list of all the Zorbs Ali has minted on Etherscan, and the transaction details](/2022-01-10/NFT-6.png)
 6. Click `Write`
-    ![Image of the successfully filled out contract to write on etherscan](/assets/images/posts/2022-01-10/NFT-7.png)
+    ![Image of the successfully filled out contract to write on etherscan](/2022-01-10/NFT-7.png)
 
 
 The rest of transaction goes the same as executing a normal transaction through your wallet! Select your goal gas and wait for the transaction to go through. 
@@ -69,15 +68,15 @@ The rest of transaction goes the same as executing a normal transaction through 
 ## Confirm Your Transaction
 
 1. Go to your Zora profile
-    ![Ali and Iain looking at Ali's profile on Zora](/assets/images/posts/2022-01-10/NFT-8.png)
+    ![Ali and Iain looking at Ali's profile on Zora](/2022-01-10/NFT-8.png)
 
 2. Select `Minted`
 
 3. Under Minted you will have a Zorb from the “Frozen Zorbs” collection. It’ll have the same Index ID number as the original Zorb, except the original Zorb will now be owned by the Freezer.  You will not be able to sell, trade, transfer, or burn the original, now frozen Zorb. 
-    ![Ali and Iain looking at Ali's minted images on Zora](/assets/images/posts/2022-01-10/NFT-9.png)
+    ![Ali and Iain looking at Ali's minted images on Zora](/2022-01-10/NFT-9.png)
 
     
-    ![Ali and Iain looking at Zorb #1545's properties](/assets/images/posts/2022-01-10/NFT-10.png)
+    ![Ali and Iain looking at Zorb #1545's properties](/2022-01-10/NFT-10.png)
 
 
 Congrats! Your Zorb is now frozen! 
@@ -104,4 +103,4 @@ Now you can give your friends the Zorb that represents your wallet! Have fun tra
 
 Here’s a reading of **Blockchain for Babies**
 
-{% youtube 'https://youtu.be/ESxegjYVGgs' %}
+{{<youtube ESxegjYVGgs>}}

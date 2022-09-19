@@ -1,21 +1,17 @@
 ---
-title: Introducing the #75Code challenge
+title: "Introducing the 75Code challenge"
 date: 2022-08-15
-categories:
-- engineering
+draft: false
+summary: "New Challenge Unlocked: Get Fit, Code, and Get the job!"
 tags:
+- engineering
 - jobs
 - 75code
 ---
 
-New Challenge Unlocked: Get Fit, Code, and Get the job! 
+# #75code Challenge
 
----
-
-
-# 75 code Challenge
-
-![1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bf0cffbc-6f82-462d-b938-aba2ed9beea0/1.png)
+![1.png](/2022-08-15/2.png)
 
 # Rules for the 75 Code Challenge
 
@@ -41,7 +37,7 @@ I had never heard of it before. He explained that it was a series of questions s
 
 It all snapped into place - Blind 75, 75 Hard…..
 
-![tiny-gains-graph.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8dc390e7-6872-451d-9ae1-e89c44ae96ab/tiny-gains-graph.jpg)
+![tiny-gains-graph.jpg](/2022-08-15/tiny-gains-graph.jpeg)
 
 [Source](https://jamesclear.com/continuous-improvement)
 

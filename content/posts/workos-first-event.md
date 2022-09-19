@@ -1,25 +1,17 @@
 ---
-title: T-30 Days To Our First Event
+title: "T-30 Days To Our First Event"
 date: 2020-08-25
-categories:
-- professional
-tags:
-- events
-- quarantine
-- devrel
----
-
-What we used to pull off WorkOS’s first event in less 30 days
-
+draft: false
+summary: "What we used to pull off WorkOS’s first event in less 30 days"
+tags: [events, quarantine, professional, devrel]
 ---
 
 Events in the time of Covid-19 are different. No more are the large rooms, free food, and the anxiety of “Am I going to the right place” after wandering through a corporate office for several minutes because you misheard the directions, took a left at the 3rd intersection instead of a right and are now completely lost.
 
 
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2020-8/1-workos-event-lost.gif" alt="[Bird looking at a map confused]"/><center>Me, trying to navigate through big tech offices</center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+![Bird looking at a map confused](/2020-8/1-workos-event-lost.gif)
+*Me, trying to navigate through big tech offices*
+
 
 
 When it came to the first event for WorkOS, a lot was on the line - we knew this event was the stepping stone for opening the door to more regular events, so it needed to go exceptionally well. There were grand ideas of what we wanted to do, but in the end of the day, one principal held true that allowed us to pull off our first event without a single problem to handle or fire to fight: **KISS (keep it simple, silly).**
@@ -34,10 +26,8 @@ At first, the event was to look something like an all day event: an hourlong key
 
 
 
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2020-8/2-live-coding.jpg" alt="[clown face and live coding]"/><center>I'm not saying don't live code, it just wasn't for us - for now</center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+![clown face and live coding](/2020-8/2-live-coding.jpg)
+*I'm not saying don't live code, it just wasn't for us - for now*
 
 For hosting the event, we looked into a lot of tech options - creating picture in picture presentations using mmhmm, creating looms to prerecord demos, OBS for video formatting, and even online conference software like Hopin to host the entire event. What we found most effective was using none of that - **KISS**.
 
@@ -84,19 +74,13 @@ We settled on a simple day of schedule and format:
 - 12:00 — Close
 
 
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2020-8/3-livedemo.png" alt="[Picture of zoom meeting where Presenter is talking]"/><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+![Picture of zoom meeting where Presenter is talking](/2020-8/3-livedemo.png)
 
 
 Using a separate WorkOS specific account to host and manage the event in the background was very useful. The account carried out the formatting of the show - the video of the account was never turned on and the microphone was always muted. Between speakers, it would make sure to use the spotlight feature to highlight the live video feed of the person actively speaking. When speakers were done, the account demoted the user to attendee as to not clutter the panelist video panel.
 
 
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2020-8/4-group.png" alt="[Picture of zoom]"/><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+![Picture of zoom](/2020-8/4-group.png)
 
 
 Panelists / presenters were made co-hosts of the event - this is key for presentation based events. Being a co-host gives the user the ability to take over screen sharing, so each presenter had the ability to control their own demo. Once one presenter was done, a clear vocal queue like “Back to you Michael” gave clear indication for when the next person was to take over the screen sharing and turn back on their video feed.
@@ -107,10 +91,8 @@ In the Zoom Webinar, we kept chat and Q & A open to all, as well as allowed anyo
 
 When it came to the fireside chat, all presenters were moved to attendees, and the speakers were promoted to panelist - this was done using the main host account. For the fireside chat, no presenter was set to spotlight.
 
-<pre style="margin:0; padding-top:2em;">
-<img class="centered" src="/assets/images/posts/2020-8/5-fireside.png" alt="[FIRESIDE CHAT]"/><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+
+![FIRESIDE CHAT](/2020-8/5-fireside.png)
 
 
 Post-event actions broke down into video, outreach, and survey. The video of the event was downloaded, cleaned up, and distributed to the company YouTube channel for easy access. After the event, utilizing the Zoom Webinar features, we included an exit survey to receive feedback from attendees. Finally, we shared the video links, the link to the survey, and the opportunity to get started with WorkOS immediately to all attendee and people registered via email.
@@ -128,19 +110,11 @@ I'm really proud of how the event turned out - a remote first team executing a r
 
 Check out the final result below!
 
-
-<p style="margin-bottom:0;"><br/></p>
-<pre style="margin:0; padding-top:2em;">
-<center><iframe class="centered" width="560" height="315" src="https://www.youtube-nocookie.com/embed/QOlJIHA04gs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+{{<youtube QOlJIHA04gs>}}
 
 
-<p style="margin-bottom:0;"><br/></p>
-<pre style="margin:0; padding-top:2em;">
-<center><iframe class="centered" width="560" height="315" src="https://www.youtube-nocookie.com/embed/GybKjPBtVZI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+
+{{<youtube GybKjPBtVZI>}}
 
 
 
@@ -149,11 +123,7 @@ Check out the final result below!
 
 It's a 10.
 
-<p style="margin-bottom:0;"><br/></p>
-<pre style="margin:0; padding-top:2em;">
-<center><iframe class="centered" width="560" height="315" src="https://www.youtube-nocookie.com/embed/SLP9mbCuhJc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center><center></center>
-</pre>
-<p style="margin-bottom:0;"><br/></p>
+{{<youtube SLP9mbCuhJc>}}
 
 
 
