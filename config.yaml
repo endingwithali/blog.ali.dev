@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://blog.ali.dev
 languageCode: en-us
 title: Thoughts from my notebook
 theme: mini-max
@@ -12,7 +12,7 @@ permalinks:
 
 paginate: 10
 
-googleAnalytics: your-google-analytics-id
+googleAnalytics: UA-115154659-1
 
 taxonomies:
   category: categories
@@ -23,7 +23,7 @@ taxonomies:
 markup:
   highlight:
     guessSyntax: true
-    style: emacs
+    style: vi
   tableOfContents:
     endLevel: 3
     ordered: false
@@ -36,21 +36,22 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: your-github-link
-  twitter: your-twitter-link
+  github: https://github.com/endingwithali
+  twitter: https://twitter.com/endingwithali
   stackoverflow: your-stackoverflow-link
-  twitch: your-twitch-link
+  twitch: https://twitch.tv/endingwithali
 
 
 # Site parameters
 params:
-  # Site Author
-  author: Ali
-  # Author biography
-  bio: Writing things
-  # Site Description, used in HTML meat
-  description: My Blog
+  googleAnalytics: UA-115154659-1
 
+  # Site Author
+  author: Ali Diamond
+  # Author biography
+  bio: Ali Diamond
+  # Site Description, used in HTML meat
+  description: Welcome to my Blog! Learn more about me via my personal site ali.dev 
 
   ###########################################
   # Optional Configuration
@@ -59,13 +60,13 @@ params:
   # To enable RSS, you could set `enableRSS: true`, default is `true`
   enableRSS: true
   # To enable comments, you may need to set `disqusShortname`
-  enableComments: true
+  enableComments: false
   # To enable comments, you may need to set `googleAnalytics`
   enableGoogleAnalytics: true
   # To enable table of content, you could set `showToc: true`, default is `false`
-  showToc: true
+  showToc: false
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-  showPowerBy: true
+  showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
@@ -85,6 +86,7 @@ params:
     # - css/custom.css # local css in `static/css/custom.css`
     # - https://example.com/custom.css # remote css
   customJS:
+    # js/analytics.js
     ## e.g.
     # - js/custom.js # local js in `static/js/custom.js`
     # - https://example.com/custom.js # remote js

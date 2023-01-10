@@ -4,11 +4,12 @@
     <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
 
     {{ partial "head.html" . }}
-
+    {{ if hugo.IsProduction }}
+      {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
   </head>
 
   <body>
-    {{ partial "navigation.html" . }}
 
     <main class="main">
       {{ block "main" . }}{{ end }}

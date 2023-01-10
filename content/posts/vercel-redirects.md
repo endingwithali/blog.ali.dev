@@ -9,8 +9,6 @@ tags:
 - hosting
 ---
 
-
----
 I remember the first time my friend Ash showed me [Vercel](https://vercel.com/) (at the time it named Now / Zeit). I was blown away. Since then, I’ve been using it to host my personal blog and personal website - both [ali.dev](http://ali.dev) domains. 
 
 One of the things I’ve been meaning to do over the past year is create subdomains for quick branded forwarding to different websites. There isn’t a straightforward tutorial on how to do this, so here we go!
@@ -30,8 +28,7 @@ This tutorial assumes you’ve already purchased your custom domain, and are man
 
 In this project, I will show you how I created a redirect for the subdomain, [live.ali.dev](live.ali.dev), to my Twitch channel - [twitch.tv/endingwithali](twitch.tv/endingwithali). I actually wrote this blogpost live on my stream, using an Oculus Rift! I've included a clip of it below.
 
-{% youtube 'https://youtu.be/Bz0PJ-n4Gy4'%}
-<br/>
+{{<youtube Bz0PJ-n4Gy4>}}
 
 
 To write this blog post, I refered to [this Github issue](https://github.com/vercel/vercel/discussions/5622) that was opened on Vercel's repo by [SeinopSys](https://github.com/SeinopSys). 
@@ -52,7 +49,7 @@ To write this blog post, I refered to [this Github issue](https://github.com/ver
     ```json
     {
         "redirects": [
-            { "source": "/", "destination": "[https://twitch.tv/endingwithali](https://twitch.tv/endingwithali)" }
+            { "source": "/", "destination": "https://twitch.tv/endingwithali" }
         ]
     }
     ```
@@ -61,7 +58,8 @@ To write this blog post, I refered to [this Github issue](https://github.com/ver
     
 
 5. Commit code to the Github
-    ![terminal with code being commited to a github repo](/assets/images/posts/2022-01-25/vercelrd-4.png)
+
+    ![terminal with code being commited to a github repo](/2022-01-25/vercelrd-4.png)
     
 6. Run the `vercel` command in your terminal to create a new vercel project. Make sure it’s a new project, not linked to any pre-existing project
 
