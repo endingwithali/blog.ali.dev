@@ -12,17 +12,17 @@ tags:
 
 # How to get Tailscale running on an Asustor NAS
 
-I’m pretty easy to influence - I basically have no idea what I’m doing 99.9% of the time. So when I [tweeted asking](https://twitter.com/endingwithali/status/1734613032234602756) for NAS recommendations, people insisted that I setup TailScale on what ever I use. 
+I’m pretty easy to influence - I basically have no idea what I’m doing 99.9% of the time. So when I [tweeted](https://twitter.com/endingwithali/status/1734613032234602756) that I was for NAS recommendations, people insisted that I setup TailScale on what ever I use. 
 
-Going against every reply to my tweet, I purchased an ASUSTOR NAS at the recommendation of my dad…. at his recommendation of a LinusTechTips video. IDK 🤷‍♀️
+Going against every reply to my tweet, I purchased an ASUSTOR NAS at the recommendation of my dad… which at the recommendation of a LinusTechTips video. IDK 🤷‍♀️
 
 {{< youtube 2fKIaalk4_w >}}
 
-So, when it was time to start getting Tailscale set up on this baby, turns out there was zero documentation around it. There is a Tailscale app on the Asustor app store, but from what I’ve learned, it's not official.
+When it was time to start getting Tailscale set up on this baby, it turned out there was zero documentation around it. I did check the Asustor app store, where there is a Tailscale app, but from what I’ve learned, it's not official.
 
-When I installed the app, it took me to a screen asking me to go back and re-login… which was mad sus. So I endeavoured to try and install it on my own.
+Before I knew it was an unofficial community app, I installed it. But, the app took me to a screen asking me to go back and re-login to verify the account… which was [mad sus](https://www.youtube.com/watch?v=ekL881PJMjI). So I endeavoured to try and install it on my own.
 
-Here’s the thing about the Asustor documentation — it’s not the best. 
+Here’s the thing about the Asustor documentation — it’s not the best. I made this blog post to teach you how I did it. 
 
 Let’s start with getting SSH access up and running. 
 
