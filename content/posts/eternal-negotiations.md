@@ -74,8 +74,6 @@ Remember, there's more to your future role than just money. What is the mentorsh
 
 
 
-Thank you [Angelo Saraceno](https://twitter.com/ndneighbor), [Prince Wilson](https://twitter.com/maxcell), [Jonathan Haas](https://twitter.com/Jon_A_Haas), and [Andrew Moran](https://twitter.com/andrewmo2014) for reviewing this article! 
-
 ---
 
 # Bonus Video
