@@ -96,6 +96,8 @@ Congrats! You now have Tailscale running on your Asustor NAS. You can check the 
 $ ping [ip address]
 ```
 
+Just as a heads up, this is kind of a work around we decided on really quickly. If you restart your NAS, you're going to have to follow the steps to get both the daemon and process running again.
+
 Go be silly with your NAS, or for what ever reason you want to get Tailscale running on the [ADM (ASUSTOR Data Master) operating system](https://www.linuxlinks.com/asustor-data-master-operating-system-review/). 
 
 I want to give a big thanks to [@supersat](https://x.com/supersat) for helping me get this up and running!
